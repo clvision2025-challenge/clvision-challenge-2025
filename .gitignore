@@ -1,0 +1,6 @@
+dataset/
+*.pyc
+__pycache__/
+llava-v1.5-7b/
+deepspeed_script/
+llava_vision_tower_mm_projector.pth
