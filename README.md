@@ -4,7 +4,7 @@ This is the official starting repository for the Continual Learning Challenge he
 
 Please refer to the [challenge website](https://sites.google.com/view/clvision2025/challenge) for more details.
 
-To participate in the challenge: [EvalAI](https://eval.ai/web/challenges/challenge-page/2565/overview)
+To participate in the challenge: [Codabench](https://www.codabench.org/competitions/9421/)
 
 ## How to participate in competition
 The recommended setup steps are as follows:
@@ -51,7 +51,7 @@ bash eval.sh 2 # evaluate scenario 2
 python create_submission_file.py
 ```
 
-6. Submit the generated `submission.zip` file to the [competition leaderboard]().
+6. Submit the generated `submission.zip` file to the [competition leaderboard](https://www.codabench.org/competitions/9421/).
 
 ## Suggestions
 - Implement your strategy in python files in `strategies` folder. (You can still modify some codes in other folders.)
